@@ -1,0 +1,7 @@
+~$*.xls*
+.DS_Store
+
+.venv/
+.vscode/
+__pycache__/
+*.pyc
