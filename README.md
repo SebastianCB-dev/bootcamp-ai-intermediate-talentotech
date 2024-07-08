@@ -17,3 +17,16 @@ Para poder triunfar en proyectos de machine learning: (Daoud Clarke, 2021)
 6. **Mitigar riesgos**. Es importante identificar los riesgos de un proyecto de machine learning y tener un plan para mitigarlos.
 
 7. **Usar el sentido común**. A veces los modelos de machine learning pueden dar resultados inesperados. Es importante usar el sentido común para validar los resultados.
+
+### Analisis de datos
+
+![Data-Analysis](./images-readme/image1.png)
+
+La ciencia de datos es el proceso de exploración, limpieza y modelado de datos para descubrir información útil, informar conclusiones y apoyar la toma de decisiones.
+
+La analítica de datos tiene 4 tipos de análisis:
+
+1. **Descriptivo**: Describe los datos y su distribución. (Qué está pasando en mi modelo de negocio) (Medidas de tendencia central, medidas de dispersión, gráficos)
+2. **Diagnóstico**: Explica por qué ocurrieron ciertos eventos. (Por qué esta pasando) (Análisis de correlación, análisis de regresión)
+3. **Predictivo**: Predice eventos futuros. (Qué va a pasar)
+4. **Prescriptivo**: Sugiere acciones a seguir. (Qué hacer)
