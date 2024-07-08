@@ -2,7 +2,7 @@
 
 ## Machine Learning
 
-Para poder triunfar en proyectos de machine learning:
+Para poder triunfar en proyectos de machine learning: (Daoud Clarke, 2021)
 
 1. **Conocer el negocio**. Es importante entender el negocio para poder identificar las variables que más impactan en el resultado. Debes conocer cual es la necesidad del negocio y cómo se puede resolver con machine learning.
 
