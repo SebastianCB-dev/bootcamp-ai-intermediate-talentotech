@@ -2,10 +2,13 @@
 
 ## Índice
 - [Inteligencia Artificial](#inteligencia-artificial)
+  - [Índice](#índice)
   - [Machine Learning](#machine-learning)
     - [Consejos para Proyectos de Machine Learning](#consejos-para-proyectos-de-machine-learning)
   - [Análisis de Datos](#análisis-de-datos)
     - [Tipos de Análisis](#tipos-de-análisis)
+- [Agradecimientos](#agradecimientos)
+  - [Referencias](#referencias)
 
 ## Machine Learning
 
@@ -40,3 +43,14 @@ La analítica de datos tiene 4 tipos de análisis:
 2. **Diagnóstico**: Explica por qué ocurrieron ciertos eventos. (Por qué está pasando) (Análisis de correlación, análisis de regresión)
 3. **Predictivo**: Predice eventos futuros. (Qué va a pasar)
 4. **Prescriptivo**: Sugiere acciones a seguir. (Qué hacer)
+
+
+# Agradecimientos
+
+Agradecimiento al MinTIC por la oportunidad de participar en el programa de formación de Inteligencia Artificial. 
+
+y al profesor Víctor Viera Balanta por compartir sus conocimientos en el curso de Inteligencia Artificial. 
+
+## Referencias
+
+Todas las diapositivas fueron hechas por el profesor Víctor Viera Balanta. 
