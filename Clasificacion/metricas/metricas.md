@@ -65,3 +65,19 @@ El reporte de clasificación es una tabla que muestra diferentes métricas de ev
 <div align="center">
     <img src="./assets/image8.png" width="80%">
 </div>
+
+## Curva ROC
+
+La curva ROC es una gráfica que muestra la relación entre la sensibilidad y la especificidad de un algoritmo de clasificación. La curva ROC es una herramienta que permite visualizar el desempeño de un algoritmo de clasificación en diferentes umbrales de decisión.
+
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/ROC_space-2.png" width="80%">
+</div>
+
+## Área bajo la curva ROC (AUC-ROC)
+
+El área bajo la curva ROC (AUC-ROC) es una métrica que mide la capacidad de discriminación de un algoritmo de clasificación. El valor del AUC-ROC varía entre 0 y 1, donde 1 indica que el algoritmo de clasificación es capaz de discriminar perfectamente entre las clases y 0 indica que el algoritmo de clasificación no es capaz de discriminar entre las clases.
+
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Roccurves.png" width="80%">
+</div>
