@@ -81,3 +81,9 @@ El área bajo la curva ROC (AUC-ROC) es una métrica que mide la capacidad de di
 <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Roccurves.png" width="80%">
 </div>
+
+#### Interpretación del AUC-ROC
+
+<div align="center">
+    <img src="./assets/image9.png" width="300px">
+</div>
